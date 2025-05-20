@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Reshma 👋
 
-<!--
-**Reshma-reddy-ailuri/Reshma-reddy-ailuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year student passionate about technology, design, and solving real-world problems.
 
-Here are some ideas to get you started:
+ 🌱 Current Projects
+- 💧 Real-time Water Quality Monitoring System
+- ⚡ Smart Energy-Efficient Home
+- 📊 Survival Analysis of Chronic Diseases
+- 💻 Online Recruitment System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💡 Interests
+- AI & Data Science
+- Internet of Things (IoT)
+- Clean Tech & Sustainability
+- Full Stack Development
+- 
+ 🛠 Skills
+- *Languages*: Python, C, R, JavaScript
+- *Tools*: Git, Streamlit, Tableau, Excel
+- *Frameworks*: Flask, Bootstrap, React
+
+ 📫 Get in Touch
+- Email: reshmaailuri9100@gmail.com
+- LinkedIn: https://www.linkedin.com/in/reshma-ailuri-940002294
+- GitHub:https://github.com/Reshma-reddy-ailuri
